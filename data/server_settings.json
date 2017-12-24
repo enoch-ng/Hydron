@@ -1,0 +1,45 @@
+{
+    "118126159748792322": {
+        "auto_change_nick": false,
+        "welcome_messages": false,
+        "show_result": true,
+        "matches_channel": "363178613387821067",
+        "victory_messages": true,
+        "welcome_channel": ""
+    },
+    "363154478372880394": {
+        "auto_change_nick": false,
+        "welcome_messages": false,
+        "show_result": true,
+        "matches_channel": "",
+        "alerts_channel": "",
+        "victory_messages": true,
+        "welcome_channel": ""
+    },
+    "340880909270122506": {
+        "auto_change_nick": true,
+        "welcome_messages": true,
+        "show_result": true,
+        "matches_channel": "",
+        "victory_messages": true,
+        "welcome_channel": ""
+    },
+    "338786829627031554": {
+        "auto_change_nick": false,
+        "welcome_messages": true,
+        "show_result": true,
+        "matches_channel": "338988680410824704",
+        "alerts_channel": "",
+        "victory_messages": true,
+        "welcome_channel": "338786829627031554"
+    },
+    "332624295748698123": {
+        "auto_change_nick": true,
+        "welcome_messages": false,
+        "show_result": true,
+        "matches_channel": "338846864294150165",
+        "alerts_channel": "",
+        "victory_messages": true,
+        "welcome_channel": "332624295748698123"
+    }
+}
